@@ -12,3 +12,15 @@ The company also launched the Pulse Report, an in-depth study on the evolution o
 
 
 Sameer Nigam, Founder and CEO of PhonePe said, “The Pulse website and report is our way of giving back to the digital payments ecosystem. When we started PhonePe, we struggled to get reliable granular data on digital payments trends across the country. We had promised ourselves that if we are successful and gather enough data on our platform, we would open it. We built 'Pulse' because we can, and because we plan to unlock opportunities for others to build in India.
+
+
+
+ # Libraries/Modules needed for the project!
+
+ 
+* Plotly - ( Python that is used for data visualization )
+*  Pandas - (Python library used for working with data sets.)
+* mysql.connector - (To store and retrieve the data)
+* Streamlit - (To Create Graphical user Interface)
+* json - (To load the json files)
+* git.repo.base - (To clone the GitHub repository)
