@@ -20,7 +20,7 @@ Sameer Nigam, Founder and CEO of PhonePe said, “The Pulse website and report i
  
 * Plotly - ( Python that is used for data visualization )
 *  Pandas - (Python library used for working with data sets.)
-* mysql.connector - (To store and retrieve the data)
-* Streamlit - (To Create Graphical user Interface)
-* json - (To load the json files)
+* mysql.connector - (Python enables Python programs to access MySQL databases)
+* Streamlit - (which enables developers to build attractive user interfaces in no time.)
+* json - ( JSON module that will help converting the datastructures to JSON strings.)
 * git.repo.base - (To clone the GitHub repository)
