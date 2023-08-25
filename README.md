@@ -1,6 +1,9 @@
 # Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly-
-Cap stone - 2 
-# GUVI PROJECT 
+                   
+# GUVI PROJECT CAPSTONE PROJECT
+
+
+
 
 # phonepe - phonepe pulse data visualization and exploration: a user-friendly tool using streamlit and plotly task 
 
